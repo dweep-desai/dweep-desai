@@ -4,21 +4,10 @@ CS undergrad<br>
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://instagram.com/dweep_desai" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/dweep-desai-76524230a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/dweep-desai" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:dweep.desai06@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
+<a href="https://instagram.com/dweep_desai"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/dweep-desai-76524230a/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;
+<a href="https://reddit.com/user/ddxsupreme"><img src="https://cdn.simpleicons.org/reddit/FF4500" height="40" /></a>&nbsp;
+<a href="mailto:dweep.desai06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -45,4 +34,3 @@ CS undergrad<br>
 
 ![](https://komarev.com/ghpvc/?username=dweep-desai&label=Profile+Views&color=blue&style=flat)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
