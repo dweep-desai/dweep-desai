@@ -1,20 +1,42 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" alt="coding-gif"/>
-</div>
+<table>
+<tr>
+<td width="50%" valign="middle">
 
-<h1 align="center">Hey there! I'm Dweep Desai</h1>
-<h3 align="center">CS Undergrad | Building cool stuff with code</h3>
+# Hey there! I'm Dweep Desai
 
----
+### CS Undergrad | Building cool stuff with code | Making stuff that should exist
 
-## Socials
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dweep-desai-76524230a/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:dweep.desai06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/></a>&nbsp;
-  <a href="https://instagram.com/dweep_desai"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>&nbsp;
-  <a href="https://reddit.com/user/ddxsupreme"><img src="https://cdn.simpleicons.org/reddit/FF4500" height="40" alt="Reddit"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/dweep-desai-76524230a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dweep.desai06@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/dweep_desai">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://reddit.com/user/ddxsupreme">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" height="40" alt="Reddit"/>
+  </a>
 </p>
+
+</td>
+
+<td width="50%" align="right">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" alt="coding-gif"/>
+
+</td>
+</tr>
+</table>
+
+
 
 ## Tech Stack
 
