@@ -3,6 +3,8 @@
 <td width="50%" valign="middle">
 
 # Hey there! I'm Dweep Desai
+<br>
+<br>
 
 ### CS Undergrad | Building cool stuff with code | Making stuff that should exist
 
