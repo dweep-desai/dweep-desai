@@ -6,7 +6,7 @@
 <br>
 <br>
 
-### CS Undergrad | Building cool stuff with code | Making stuff that should exist
+### CS Undergrad | Building cool stuff with code | Making things that should exist
 
 <br>
 
