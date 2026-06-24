@@ -1,14 +1,18 @@
 <table>
 <tr>
-<td width="50%" valign="middle">
+<td width="55%" valign="middle">
 
-# Hey there! I'm Dweep Desai
-<br>
+<h1>Hey there! I'm Dweep Desai</h1>
+
 <br>
 
-### CS Undergrad | Building cool stuff with code | Making things that should exist
-<iframe src="https://github.com/sponsors/dweep-desai/button" title="Sponsor dweep-desai" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-<br>
+<h3>CS Undergrad | Building cool stuff with code | Making things that should exist</h3>
+
+<p>
+  <a href="https://github.com/sponsors/dweep-desai">
+    <img src="https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge" alt="Sponsor"/>
+  </a>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/dweep-desai-76524230a/">
@@ -30,15 +34,15 @@
 
 </td>
 
-<td width="50%" align="right">
+<td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400" alt="coding-gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="380" alt="coding-gif"/>
 
 </td>
 </tr>
 </table>
 
-
+<br>
 
 ## Tech Stack
 
@@ -53,7 +57,7 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
@@ -61,8 +65,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=dweep-desai&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://streak-stats.demolab.com/?user=dweep-desai&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=dweep-desai&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=dweep-desai&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dweep-desai&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
