@@ -23,10 +23,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/dweep_desai">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
-  </a>
-  &nbsp;
   <a href="https://reddit.com/user/ddxsupreme">
     <img src="https://cdn.simpleicons.org/reddit/FF4500" height="40" alt="Reddit"/>
   </a>
